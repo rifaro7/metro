@@ -29,5 +29,5 @@ A terminal-based Metro Rail Ticketing System written in C. This program allows u
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+[git clone https://github.com/your-username/your-repo.git](https://github.com/rifaro7/metro.git)
 cd your-repo
