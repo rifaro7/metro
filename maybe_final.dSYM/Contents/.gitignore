@@ -1,0 +1,46 @@
+# Compiled object files
+*.o
+
+# Compiled binary files
+*.out
+*.exe
+*.a
+*.so
+
+# Build directory
+/build/
+
+# macOS system files
+.DS_Store
+
+# Editor backup files
+*~
+*.swp
+*.bak
+
+# Xcode-related (if used)
+*.xcworkspace
+*.xcuserstate
+*.xcodeproj
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Core dumps
+core
+
+# Valgrind output
+vgcore.*
+
+# User-specific files
+*.user
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Project-specific
+ticketdb.txt
